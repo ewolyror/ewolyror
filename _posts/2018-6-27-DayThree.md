@@ -9,4 +9,4 @@ I am writing this post in atom (although any text editor would work). I cloned m
 
 # X ray stuff
 
-No im making an x ray catalog.
+No I'm making an x ray catalog. The catalog is on Github on the NGC 6819 shared page. The next steps are to figure out which Hubble frames have our desired Xray sources in them. Then we can begin photometry. Tommy and I have been messing with Github all morning and I think that what we learn will be helpful for the whole summer. I also created a github organization which I invited everyone to join. That may make the collaboration process easier. I have to go to paint for a while!
