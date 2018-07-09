@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: True
-title: Reading Up, Trying Out: Week Two Reflection
+title: Reading Up, Trying Out-Week Two Reflection
 ---
 
 # Slowing Down
