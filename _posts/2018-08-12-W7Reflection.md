@@ -30,7 +30,7 @@ by the end of the day have color-magnitude diagrams for all hubble fields (or on
 
 Wednesday 8/15
 wrap up loose ends from past two days
-Begin work on poster, tak with group about anything else that needs to be done for project completion, good things to have for our posters (graphics, tables, pictures)
+Begin work on poster, talk with group about anything else that needs to be done for project completion, good things to have for our posters (graphics, tables, pictures)
 By the end of the day have a plan for poster layout
 
 Thursday 8/16
